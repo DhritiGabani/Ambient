@@ -10,9 +10,7 @@ A discord music bot to improve concentration and focus during online study sessi
 
 - Python
 - Discord.py
-
 <br />
-
 ## 📷 Screenshots
 
 ![Bot Description](https://github.com/DhritiGabani/Ambient/blob/main/images/Screen%20Shot%202022-01-08%20at%204.20.52%20PM.png?raw=true)
