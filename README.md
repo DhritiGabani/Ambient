@@ -17,7 +17,7 @@ A discord music bot to improve concentration and focus during online study sessi
 
 ## 📷 Screenshots
 
-![Bot in Action](https://github.com/dhritigabani/Ambient/blob/main/Screen Shot 2022-01-08 at 4.01.29 PM.png?raw=true)
+![Bot in Action](https://github.com/DhritiGabani/Ambient/blob/main/images/Screen%20Shot%202022-01-08%20at%204.01.29%20PM.png?raw=true)
 
 ![Voice Channel]("images/Screen Shot 2022-01-08 at 4.02.14 PM.png" "Voice Channel")
 
