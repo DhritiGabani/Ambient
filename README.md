@@ -5,9 +5,7 @@
 </center>
 
 A discord music bot to improve concentration and focus during online study sessions.
-
-<br />
-
+<br/>
 ## Technologies Used
 
 - Python
